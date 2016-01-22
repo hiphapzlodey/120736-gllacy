@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Александр Шаталин](https://htmlacademy.ru/profile/id120736).
-* Наставник: [Евгений Болтян](https://htmlacademy.ru/profile/id120736).
+* Наставник: [Евгений Одесса Болтян](https://htmlacademy.ru/profile/id120736).
 
 ---
 
